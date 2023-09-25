@@ -88,3 +88,13 @@ Useful Websites List With Info :globe_with_meridians:
    <h3> A website which lists alternatives to web-based software, desktop computer software, and mobile apps, and sorts the alternatives by various criteria, including the number of registered users who have clicked the "Like" button for each of them on AlternativeTo.</h3>
 </details>
 </h2>
+
+
+<h2 align="center">
+
+:link: [Ninite](https://ninite.com/)
+<details>
+    <summary>Info About Website</summary>
+   <h3> Ninite is a package management system offering that enables users to automatically install popular applications for their Windows operating system. It enables users to make a selection from a list of applications and bundles the selection into a single installer package. It is free for personal use.</h3>
+</details>
+</h2>
